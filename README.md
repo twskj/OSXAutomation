@@ -22,3 +22,4 @@ Hold `command` button and drag the icon out
 
 # Ref
 - [JXA Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki)
+- [AppleScript Guide](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
