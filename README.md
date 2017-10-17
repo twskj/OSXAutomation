@@ -12,7 +12,7 @@ JXA script needs OSX 10.10 (Yosemite) or higher to run
 1. Bring up property panel of the source using `command + i`
 2. Select the icon (very top) and press `command + c`
 3. Bring up the app's property page
-4. Select the icon and press Command + v
+4. Select the icon and press `command + v`
 
 ## How to Add to Finder Toolbar
 Launch Finder and hold `command + option` and drag .app to the tool bar
