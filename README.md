@@ -5,7 +5,7 @@ Various automation scripts for common tasks
 JXA script needs OSX 10.10 (Yosemite) or higher to run
 
 ## Compile To .app
-1. At Script Editor Menu click `File`
+1. At `Script Editor`'s Menu click `File`
 2. Change File Format from `Script` to Application
 
 ## How to Change Icon
