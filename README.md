@@ -13,7 +13,12 @@ JXA script needs OSX 10.10 (Yosemite) or higher to run
 2. Select the icon (very top) and press `command + c`
 3. Bring up the app's property page
 4. Select the icon and press Command + v
-5. [Optional] Launch Finder and hold `command + option` and drag .app to the tool bar
+
+## How to Add to Finder Toolbar
+Launch Finder and hold `command + option` and drag .app to the tool bar
+
+## How to Remove from Finder Toolbar
+Hold `command` button and drag the icon out
 
 # Ref
 - [JXA Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki)
